@@ -1,5 +1,8 @@
+from settings import a
+
+
 def main():
-    pass
+    print(a)
 
 
 if __name__ == "__main__":
